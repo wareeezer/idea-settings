@@ -1,0 +1,6 @@
+<application>
+  <component name="CodeInsightSettings">
+    <option name="USE_INSTANCEOF_ON_EQUALS_PARAMETER" value="true" />
+    <EXCLUDED_PACKAGE NAME="org.hamcrest.CoreMatchers.is" />
+  </component>
+</application>
