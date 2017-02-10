@@ -46,4 +46,7 @@
     </option>
     <option name="cloneParentDir" value="C:\WORK" />
   </component>
+  <component name="VcsApplicationSettings">
+    <option name="PATCH_STORAGE_LOCATION" value="C:\Users\Asd\Desktop\server\trunk" />
+  </component>
 </application>
