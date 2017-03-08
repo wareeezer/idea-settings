@@ -1,0 +1,8 @@
+<templateSet group="JavaScript">
+  <template name="cl" value="console.log($CURSOR$);" description="console.log()" toReformat="false" toShortenFQNames="true">
+    <variable name="CURSOR" expression="" defaultValue="" alwaysStopAt="true" />
+  </template>
+  <template name="bdls" value="browser.driver.sleep($CURSOR$);" description="browser.driver.sleep" toReformat="false" toShortenFQNames="true">
+    <variable name="CURSOR" expression="" defaultValue="" alwaysStopAt="true" />
+  </template>
+</templateSet>
