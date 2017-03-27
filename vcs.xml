@@ -42,6 +42,10 @@
           <option name="url" value="https://github.com/mineshmathew/OpenDocScanner.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://nagyi@bitbucket.org/nagyi/dll-runner.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\WORK" />
